@@ -18,7 +18,8 @@ Easily generate concise summaries from long videos or web articles — just past
 
 ## 📸 Demo
 
-![App Screenshot](images/demo_screenshot.png)
+![App WebPage Summary Screenshot](webpage summary2.PNG)
+
 
 > Replace this image with your own Streamlit app screenshot
 
